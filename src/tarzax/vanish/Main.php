@@ -17,7 +17,7 @@ class Main extends PluginBase implements Listener{
         $this->getLogger()->notice("TarzaxVanish has been successfully activated");
         @mkdir($this->getDataFolder());
         $this->saveDefaultConfig();
-        $this->getResource("confog.yml");
+        $this->getResource("config.yml");
     }
     public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool
     {
