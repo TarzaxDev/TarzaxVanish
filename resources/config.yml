@@ -1,0 +1,6 @@
+# TarzaxVanish config
+# v1.0.2
+# permission is vanish.use
+
+VanishPopupOff: "§4- Vanish off -"
+VanishPopupOn: "§a- Vanish on -"

@@ -1,0 +1,15 @@
+name: TarzaxVanish
+author: Tarzax
+version: 1.0.2
+api: 4.6.1
+main: tarzax\vanish\Main
+
+commands:
+  vanish:
+    usage: /vanish
+    description: "Vanish mod"
+    permission: vanish.use
+
+permissions:
+  vanish.use:
+    default: op
