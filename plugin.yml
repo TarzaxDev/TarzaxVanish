@@ -1,7 +1,7 @@
 name: TarzaxVanish
 author: Tarzax
 version: 1.0.2
-api: 4.6.1
+api: 4.6.2
 main: tarzax\vanish\Main
 
 commands:
